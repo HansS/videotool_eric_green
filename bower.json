@@ -1,0 +1,25 @@
+{
+  "name": "videotool",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "eric"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dustjs-linkedin-helpers": "~1.2.0",
+    "dustjs-linkedin": "~2.3.0",
+    "requirejs": "^2.1.11",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.0",
+    "backbone": "~1.1.2"
+  }
+}
