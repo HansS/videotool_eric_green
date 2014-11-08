@@ -13,7 +13,7 @@ module.exports = function requirejs(grunt) {
                 dir: '.build/js',
                 optimize: 'uglify',
                 modules: [
-                    { name: 'app' }
+                    //{ name: 'app' }
                 ]
             }
         }

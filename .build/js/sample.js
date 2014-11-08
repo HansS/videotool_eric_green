@@ -1,0 +1,1 @@
+(function(){var e;e=function(e){return e*e}}).call(this);
